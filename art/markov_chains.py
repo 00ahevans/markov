@@ -1,7 +1,7 @@
 """
     Adelaide Evans
     Markov Chains HW
-    
+    Generates abstract art using transition matrices to determine shapes and colors. 
     Dependencies:
         aggdraw
         numpy
